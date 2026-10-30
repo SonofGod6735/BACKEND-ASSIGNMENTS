@@ -1,3 +1,7 @@
+// 7. Daily To-Do ListBuild a program that stores a student’s tasks for the day. Let the student mark tasks as complete, then show which tasks are finished and which still need to be done.
+
+// Your program should use: an array of task objects, a loop to display or check tasks, and conditionals to show different statuses.
+
 const task1 = {
     task: "study at Miva", completed: false
 };
